@@ -36,4 +36,4 @@ Actionable insights derived from data visualization.
 Enhanced UI/UX with clear and intuitive data representation.
 
 # Dashboard Image
-![Screenshot 2025-03-30 220912](https://github.com/user-attachments/assets/e6fa54f0-a19b-4731-964d-5f584cf58a0f)
+<img width="1192" height="691" alt="Image" src="https://github.com/user-attachments/assets/43c0aacd-57f6-4a8f-92e6-a202385a9eba" />
